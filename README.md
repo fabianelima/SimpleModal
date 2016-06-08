@@ -1,4 +1,4 @@
-#README
+#SimpleModal
 
 A simple modal made with jQuery + CSS. To use it, just paste the following code inside your html...:
 
